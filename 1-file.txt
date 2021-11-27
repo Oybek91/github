@@ -1,1 +1,2 @@
 1-uzgarishlar
+hi there! git pull buyrug'i uchun.
